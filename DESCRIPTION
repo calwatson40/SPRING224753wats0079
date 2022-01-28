@@ -4,7 +4,7 @@ Title: Introductory Package
 Version: 0.1.0
 Author: Cal Watson
 Maintainer: Cal Watson <cal.watson40@ou.edu>
-Description: This is a test package
+Description: This is a test package and just added some more description.
 License: MIT
 Encoding: UTF-8
 LazyData: true
